@@ -1,0 +1,4 @@
+tkcalendar
+Pillow
+opencv-python
+playsound

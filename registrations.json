@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Anand",
+        "dob": "5/28/25",
+        "gender": "Male",
+        "department": "IT",
+        "image": "images/profile_Anand.jpg"
+    },
+    {
+        "name": "Priya",
+        "dob": "5/28/25",
+        "gender": "Female",
+        "department": "HR",
+        "image": "images/profile_Priya.jpg"
+    },
+    {
+        "name": "anand",
+        "dob": "5/28/25",
+        "gender": "Male",
+        "department": "IT",
+        "image": "images\\profile_anand.jpg",
+        "confirmed": true
+    },
+    {
+        "name": "dixit",
+        "dob": "5/31/25",
+        "gender": "Male",
+        "department": "IT",
+        "image": "images\\profile_dixit.jpg",
+        "confirmed": true
+    }
+]
